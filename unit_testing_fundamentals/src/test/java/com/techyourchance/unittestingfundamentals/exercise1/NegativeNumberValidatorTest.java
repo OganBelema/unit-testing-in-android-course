@@ -8,7 +8,7 @@ import static org.hamcrest.CoreMatchers.is;
 
 public class NegativeNumberValidatorTest {
 
-    NegativeNumberValidator SUT;
+    private NegativeNumberValidator SUT;
 
     @Before
     public void setup(){
